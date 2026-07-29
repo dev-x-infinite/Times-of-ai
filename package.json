@@ -3,7 +3,6 @@
   "version": "2.0.0",
   "description": "🚀 Serverless AI-curated daily news aggregation platform - The Times of AI powered by GitHub Actions + Pages",
   "main": "src/frontend/index.html",
-  "homepage": "https://sanjayhjp121.github.io/the-times-of-ai",
   "scripts": {
     "dev": "python3 -m http.server 8000 --directory src/frontend",
     "collect": "cd src/backend/collectors && python collect_news.py",
