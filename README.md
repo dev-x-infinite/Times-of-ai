@@ -16,7 +16,6 @@ AI-powered news aggregation platform that curates the latest AI and technology n
 - 📰 **Smart Classification** - Headlines, articles, and research papers
 - 🎵 **Audio Podcast** - AI-generated news podcast
 - 📱 **Responsive Design** - Works on all devices
-- ⚡ **Serverless** - Runs on GitHub Actions + Pages (free)
 
 ## Local Development
 
